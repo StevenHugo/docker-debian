@@ -1,1 +1,1 @@
-bash, git, gnupg, git-secret  
+on-my-zsh, git, gnupg, git-secret  
